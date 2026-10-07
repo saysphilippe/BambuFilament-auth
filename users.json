@@ -12,7 +12,7 @@
         "iter": 600000
       },
       "mustChange": false,
-      "shareAms": false,
+      "shareAms": true,
       "shareLibrary": false
     },
     {
