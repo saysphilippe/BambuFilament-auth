@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "name": "Philippe",
+      "color": "#2563eb",
+      "admin": true,
+      "cred": {
+        "salt": "4NBQ7zlMOYjm/uviiLQd3g==",
+        "iv": "7oGqDsf30ACzPRPf",
+        "data": "w09pSBr8uCui2KD9WR7OlP9l99JeKJJiaes5OmdbFF93Ea729zKQckofamGelueroOIVCauLKVE1zX+Na0BM9tJyo81e04MCM3Wt9efSxNzZXOFGe41WN7yLiXY4K5M1/VolfeyP5OCu2vQhaQ==",
+        "iter": 600000
+      },
+      "mustChange": false,
+      "shareAms": true,
+      "shareLibrary": true
+    },
+    {
+      "name": "Niklas",
+      "color": "#db2777",
+      "admin": false,
+      "cred": {
+        "salt": "TUNG8Pbzt/RNYqrgd6SYig==",
+        "iv": "vi2jSrM5RFPt7Nn4",
+        "data": "v4zSKDwyW4DiEd6vR3Gzr11wfRItI5qbmy3vTUZj5PpKrIH89x6OBSSNtd2qEaTj8gNUkMRAgS6Zdf9IbH8TClOVyzDWVZMM79BAKzbFhgFw4V7GPmPCXjxnpJpnAYY6LKvj3z0HCcJOguZO9A==",
+        "iter": 600000
+      },
+      "mustChange": true
+    },
+    {
+      "name": "Peter",
+      "color": "#7c3aed",
+      "admin": false,
+      "cred": {
+        "salt": "I8giJ1RSuSC4TGvhNdRI2w==",
+        "iv": "i5VNjPZlPD0FLShT",
+        "data": "BR0E/fIzZUXOMAXqiInwqr1l9TpfmZubXOy+w7MU0BHhyu5usWtfY09IwFqECoF4b5KMULm1+abnGz92TCKu8ElEPtIxiuBNul062jDJ9ZPTwythavc8PhChpKKHyKwhAyaiF2vtTvXudd5NgQ==",
+        "iter": 600000
+      },
+      "mustChange": true
+    },
+    {
+      "name": "Egil",
+      "color": "#0891b2",
+      "cred": {
+        "salt": "o8UKwntnmOoOziEYIDo+Eg==",
+        "iv": "Du1ukWAj4vmoE4ap",
+        "data": "iPiHfdY2UE0wFd83PvJGZty3w0Oj2aRkFqexf76Q56WbD5EIObeNyLhYc/QEpds9E30vEpoOlOuiLVMHHjYcwY9ZeWRDzOT07IonjZlZKZJBgEIeZ9oXHPyFec4NhCr3xWBAsRsftz/nSwV2IQ==",
+        "iter": 600000
+      },
+      "admin": false,
+      "mustChange": true
+    },
+    {
+      "name": "Bård",
+      "color": "#ca8a04",
+      "cred": {
+        "salt": "+VLG0CGUNfHwRR+iFrgGBg==",
+        "iv": "7V7tmKk5KbrLXCH6",
+        "data": "9BKT8rYnSYobsY4HpZdAepBg2Lk13tKYulofCHn+tinN7KplE0Nb94HGcrr4XEbX1fN/y1PFvLZe9bJC16sM8ambEQb7vhQmJQxf/qC9HZgNgN3AWOd3asrMxIajGrGWju/bIdjzXNxi12OIBQ==",
+        "iter": 600000
+      },
+      "admin": false,
+      "mustChange": true
+    }
+  ]
+}
