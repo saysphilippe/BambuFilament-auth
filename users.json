@@ -13,7 +13,7 @@
       },
       "mustChange": false,
       "shareAms": true,
-      "shareLibrary": false
+      "shareLibrary": true
     },
     {
       "name": "Niklas",
