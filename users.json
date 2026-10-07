@@ -6,9 +6,9 @@
       "color": "#2563eb",
       "admin": true,
       "cred": {
-        "salt": "4NBQ7zlMOYjm/uviiLQd3g==",
-        "iv": "7oGqDsf30ACzPRPf",
-        "data": "w09pSBr8uCui2KD9WR7OlP9l99JeKJJiaes5OmdbFF93Ea729zKQckofamGelueroOIVCauLKVE1zX+Na0BM9tJyo81e04MCM3Wt9efSxNzZXOFGe41WN7yLiXY4K5M1/VolfeyP5OCu2vQhaQ==",
+        "salt": "ScD+2Rj6J/00jIaWRqiVUA==",
+        "iv": "hOPDf4VrKtwstJ/a",
+        "data": "7qYZrL0LDr/7Vdva45jKjHTJ+P3kVxZg70UaVenNW1gvJck0K3KKsKnWbjTuOMRPbTSmcRD6Zt46lhhFIdFACT8tNPhBzIxJGs9bzMLqqR5Zb6Ga9NkDG7bm7CkwZWBVRE5R4CXZpicbexzNLA==",
         "iter": 600000
       },
       "mustChange": false,
@@ -20,9 +20,9 @@
       "color": "#db2777",
       "admin": false,
       "cred": {
-        "salt": "TUNG8Pbzt/RNYqrgd6SYig==",
-        "iv": "vi2jSrM5RFPt7Nn4",
-        "data": "v4zSKDwyW4DiEd6vR3Gzr11wfRItI5qbmy3vTUZj5PpKrIH89x6OBSSNtd2qEaTj8gNUkMRAgS6Zdf9IbH8TClOVyzDWVZMM79BAKzbFhgFw4V7GPmPCXjxnpJpnAYY6LKvj3z0HCcJOguZO9A==",
+        "salt": "N79RtI0TPaea93nlEfIp3Q==",
+        "iv": "cLXK+zllr/teer1w",
+        "data": "naZGZduEnm9co/+K/sudsTPKl3fsMOKEywFLKyn92luyHJWPDOm5ZaKuZacpBGSv5QXKLtWoSuxbuDlKO+lHBOZThdTiVjaZtWagzdCsp0W794dMwFYvLBjs3UgvpAjoANXWY7v5XVVJ0WlqJA==",
         "iter": 600000
       },
       "mustChange": true
@@ -32,9 +32,9 @@
       "color": "#7c3aed",
       "admin": false,
       "cred": {
-        "salt": "I8giJ1RSuSC4TGvhNdRI2w==",
-        "iv": "i5VNjPZlPD0FLShT",
-        "data": "BR0E/fIzZUXOMAXqiInwqr1l9TpfmZubXOy+w7MU0BHhyu5usWtfY09IwFqECoF4b5KMULm1+abnGz92TCKu8ElEPtIxiuBNul062jDJ9ZPTwythavc8PhChpKKHyKwhAyaiF2vtTvXudd5NgQ==",
+        "salt": "Ruw7vWeGdaOys+zaHUOViQ==",
+        "iv": "09C7YPB5lFQnGYlf",
+        "data": "30JBuY+6slyHY5NvwjqNkKMqSgSNnXvvrlNSYMw561pRGNdnPMNJtfp03jF3CvXr+5btvevAHKl2aIyOdlbmkMyh0YUZbPmY6Sk0SFyOdWjJLLSta8+kwgrmsMHw8I31WA9pyiPlEHsx9vNSYg==",
         "iter": 600000
       },
       "mustChange": true
@@ -43,9 +43,9 @@
       "name": "Egil",
       "color": "#0891b2",
       "cred": {
-        "salt": "o8UKwntnmOoOziEYIDo+Eg==",
-        "iv": "Du1ukWAj4vmoE4ap",
-        "data": "iPiHfdY2UE0wFd83PvJGZty3w0Oj2aRkFqexf76Q56WbD5EIObeNyLhYc/QEpds9E30vEpoOlOuiLVMHHjYcwY9ZeWRDzOT07IonjZlZKZJBgEIeZ9oXHPyFec4NhCr3xWBAsRsftz/nSwV2IQ==",
+        "salt": "Km9v+NXVCYDhYuHBFIHzVw==",
+        "iv": "4/F43muXfTMPcEtt",
+        "data": "jm5NAgpltbrgVXOO9WnhIKRh93BABKBxH8qxHJR+TiL/K1Htm9nhjKfLlCfHZXm+0hWREKOPG7dnM73qdQNae20v4+tfsD3FvXJjltR6HS1x+CXJDqHWU+WnafkEmN2rbx+uoBZKnKsjo7LKXw==",
         "iter": 600000
       },
       "admin": false,
@@ -55,9 +55,9 @@
       "name": "Bård",
       "color": "#ca8a04",
       "cred": {
-        "salt": "+VLG0CGUNfHwRR+iFrgGBg==",
-        "iv": "7V7tmKk5KbrLXCH6",
-        "data": "9BKT8rYnSYobsY4HpZdAepBg2Lk13tKYulofCHn+tinN7KplE0Nb94HGcrr4XEbX1fN/y1PFvLZe9bJC16sM8ambEQb7vhQmJQxf/qC9HZgNgN3AWOd3asrMxIajGrGWju/bIdjzXNxi12OIBQ==",
+        "salt": "y/5/E8EFNY5DI7v7ZKmxSA==",
+        "iv": "TXxfKEN9NXCVtmfv",
+        "data": "8sUVN/tIas3i45SL1OxT9dmVMNl4Zpzm7z78S5+jNoBBXzy8wsTsqzGrqfG08wltgOygqbPfe0gR3NErir/rGf1Z7ml1muXQjaL6QZhH9WGim8o/VKDBlX/RJ5c4uFMpC/AENHTAEl/GyHtpeA==",
         "iter": 600000
       },
       "admin": false,
