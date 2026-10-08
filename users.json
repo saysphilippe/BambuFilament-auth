@@ -14,18 +14,6 @@
       "mustChange": false,
       "shareAms": false,
       "shareLibrary": false
-    },
-    {
-      "name": "Test Philippe",
-      "color": "#db2777",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "1IbCENtkJ11/7m5yq018Vw==",
-        "iv": "BBwWFHEia5Qv7XRA",
-        "data": "AMT5VLb8/Fe458ukSWOnSMxNRKpQbyg4V0POMxY2mShB2l13Paa1Ci4m4n6hPw9/74+sGQPcnmQwRxz9lTVnc0iT8briLYLF1aSCAMBk0wYvWUxLdalQS1Fggm6VTUzf8+E+BzASG9Kp+RYFbA==",
-        "exp": "2026-10-08T10:42:51.792Z"
-      }
     }
   ]
 }
