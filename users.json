@@ -18,7 +18,14 @@
     {
       "name": "Test Godkjenning",
       "color": "#db2777",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "gtUX5T4lPgDV1Ws6uSKivw==",
+        "iv": "yHE0g/fh13kZks1e",
+        "data": "A+6Vgv9UYf7NoE02MJHEXavtsZnjryFRfwcJQlKtkl6vOm/S3eOAnKx6uWcRtTHgvIgiWXQ9I+EArpRaKMptyEs072AtATA3jbV17xSOkuJMPSP9fPjH7Q57A/Rs2Meu7kR0PTRKhB8AiEYNag==",
+        "exp": "2026-10-08T10:57:29.153Z"
+      }
     }
   ]
 }
