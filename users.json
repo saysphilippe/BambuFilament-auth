@@ -49,10 +49,10 @@
       "mustChange": true,
       "reset": {
         "kdf": "hkdf",
-        "salt": "Bu4deO7hAWkKZHD6lIoFQg==",
-        "iv": "mC3kwxp5nAe6PFn6",
-        "data": "HVbRkCI4Dqlqk/HraljXUAtJnQpE6J4kDLI4r/6nHB9AXZCbKlAdPpHo5j20diYvEFsI8oaaSKQk0mZYWWllKMgD62lV3mK83G4h046QYt5e9GeYjjZahGrra1aR+PYGIrx/WLodrOp6jHoNaQ==",
-        "exp": "2026-10-08T22:01:01.710Z"
+        "salt": "iAt/oZtZbeRtaH1c0j7QXg==",
+        "iv": "9WAHW1b5m0seYbo0",
+        "data": "ek4aEybHCRtpA7TlC9sqctf+uqhcpdtWShfRFlVKLJXNbElJCBGrGf/Xm/D+BBNo6+QLdb8wWE34To7U8z+IsPsmd65JiL3pL4v/qHaDkEIH46h/0RTm2vOa6XQaEFvjIjKYcauc9kAQFyjY/A==",
+        "exp": "2026-10-08T22:03:36.354Z"
       }
     }
   ]
