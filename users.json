@@ -14,54 +14,6 @@
       "mustChange": false,
       "shareAms": false,
       "shareLibrary": false
-    },
-    {
-      "name": "Niklas",
-      "color": "#db2777",
-      "admin": false,
-      "cred": {
-        "salt": "N79RtI0TPaea93nlEfIp3Q==",
-        "iv": "cLXK+zllr/teer1w",
-        "data": "naZGZduEnm9co/+K/sudsTPKl3fsMOKEywFLKyn92luyHJWPDOm5ZaKuZacpBGSv5QXKLtWoSuxbuDlKO+lHBOZThdTiVjaZtWagzdCsp0W794dMwFYvLBjs3UgvpAjoANXWY7v5XVVJ0WlqJA==",
-        "iter": 600000
-      },
-      "mustChange": true
-    },
-    {
-      "name": "Peter",
-      "color": "#7c3aed",
-      "admin": false,
-      "cred": {
-        "salt": "Ruw7vWeGdaOys+zaHUOViQ==",
-        "iv": "09C7YPB5lFQnGYlf",
-        "data": "30JBuY+6slyHY5NvwjqNkKMqSgSNnXvvrlNSYMw561pRGNdnPMNJtfp03jF3CvXr+5btvevAHKl2aIyOdlbmkMyh0YUZbPmY6Sk0SFyOdWjJLLSta8+kwgrmsMHw8I31WA9pyiPlEHsx9vNSYg==",
-        "iter": 600000
-      },
-      "mustChange": true
-    },
-    {
-      "name": "Egil",
-      "color": "#0891b2",
-      "cred": {
-        "salt": "Km9v+NXVCYDhYuHBFIHzVw==",
-        "iv": "4/F43muXfTMPcEtt",
-        "data": "jm5NAgpltbrgVXOO9WnhIKRh93BABKBxH8qxHJR+TiL/K1Htm9nhjKfLlCfHZXm+0hWREKOPG7dnM73qdQNae20v4+tfsD3FvXJjltR6HS1x+CXJDqHWU+WnafkEmN2rbx+uoBZKnKsjo7LKXw==",
-        "iter": 600000
-      },
-      "admin": false,
-      "mustChange": true
-    },
-    {
-      "name": "Bård",
-      "color": "#ca8a04",
-      "cred": {
-        "salt": "y/5/E8EFNY5DI7v7ZKmxSA==",
-        "iv": "TXxfKEN9NXCVtmfv",
-        "data": "8sUVN/tIas3i45SL1OxT9dmVMNl4Zpzm7z78S5+jNoBBXzy8wsTsqzGrqfG08wltgOygqbPfe0gR3NErir/rGf1Z7ml1muXQjaL6QZhH9WGim8o/VKDBlX/RJ5c4uFMpC/AENHTAEl/GyHtpeA==",
-        "iter": 600000
-      },
-      "admin": false,
-      "mustChange": true
     }
   ]
 }
