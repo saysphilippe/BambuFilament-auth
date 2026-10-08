@@ -18,7 +18,14 @@
     {
       "name": "Niklas",
       "color": "#db2777",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "PGNuyvSkCNLQZDwTTZa2jQ==",
+        "iv": "afe0ZFihiBABm6WT",
+        "data": "BzRBM8JVJ7ebqQDx0l7PxNqOeH/BJPh/ZvelW1t2444ZXDsw4nXPVPepiKJdUO66H2sppT6dM73tlBDBBEIgvOGaXXThh4wgty7ZHh4fSvv8f7V3NBOrRQ28zVAevjW/lv+QaNuybdFPjRB9Ng==",
+        "exp": "2026-10-08T11:55:11.070Z"
+      }
     }
   ]
 }
