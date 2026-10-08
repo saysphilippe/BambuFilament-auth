@@ -5,15 +5,23 @@
       "name": "Philippe",
       "color": "#2563eb",
       "admin": true,
-      "cred": {
-        "salt": "xAxYs7yacKjVRRHMAwOHmw==",
-        "iv": "NyuNMUazlCpEL7xV",
-        "data": "jgefH069w/J890EyQjU/YS7fV3ptMLtudvTBK3yKPfGSyctXrSBqWp0wSlEjgnoNrsErlPRa3dOT6EdTS9KJw21t+uDTmEDFEUTWjhjVIUYuv0YzaddzOHxt3ezZcqpjX417n+l1M7bV3+hF1Q==",
-        "iter": 600000
-      },
       "mustChange": false,
       "shareAms": true,
-      "shareLibrary": true
+      "shareLibrary": true,
+      "kp": {
+        "pub": "BI1Hj3fkWcn1Qlz8xCz4hhQIvWP/YYKiVFGuiy4ve7DA1Jwh9YuscBf2E1y91Pizc97nFGtjMb5+8pt8oNNeZzc=",
+        "priv": {
+          "salt": "1P0N7wugNv92J9I1E2GNNA==",
+          "iv": "qOVM+5OKvqqMyHbU",
+          "data": "yrA9CUqWg4+UrcZcf1hnnxzXS70N1FhxXltLBwBMdvYUW6esMRr1kJpb9IS1jRxzH/SyuffVQ4KMkcDfZTVRdqJ6IeLgsLOykpDB4AwRH0My9Mto04wmuRmV32fGhy33jA38mO5zorrWlg3YG943jPlgnLbBi1HHZmY41REAVloX2bspdp2Xyr26EoGaXRnzSpSJJyES6BK+EcKUUWBHLjGr8MZztE4DVsmXD+tY00HFHyhTJV0pHzvGQc6VM1/HEPq07hbjTTY=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BNGpG5eAGfVhkXkY/1naXdWaQgqa8ZljQbu3cAaeimjRNCwoh4mI5t4LUhlhqY1jfB6QKgojz97NYQbIhiEryz8=",
+          "iv": "ZKgv07PZpOlDjoYN",
+          "data": "EwMNjIhlmIvW6HvAYq3BKtjuMMmvV7A+hEWKq3PkN2iAJU5FInzZxAHugq1/+trmSI6Is0uXsnSb0ppKnKnmJa3vi6DBvZqqZQwfEmS+BIccOmljoH7wOdFRxAyPknf87mEYS1OVK0YiRjE3rQ=="
+        }
+      }
     },
     {
       "name": "Niklas",
