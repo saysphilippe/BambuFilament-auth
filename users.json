@@ -38,13 +38,20 @@
     {
       "name": "Edna",
       "color": "#7c3aed",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "ziH2wudhxTN6O8Z+nDtjYA==",
-        "iv": "QElMhwpjBLc4kF3c",
-        "data": "isfyG7aDizvUOsD9v0I1N/gLyrW4iczoSq4xABohLJsoq5e2d1uztOlWkdnwTQ0k6HNkD9NRod9pwoBnUoWDkGy1FCVJ9XGKAyRSi2E6jcAQJQdFjhnzJI63S7QIH0aDCdSzXgSios3YeKTTvA==",
-        "exp": "2026-10-08T20:19:13.369Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BJrSRvrKTgJ82h0YyZrXRvf6g4rC+713Zy4/XZSKc2fMD+FT3SZcEfBD7EPln6WPmr9/CVok3yMj7tMfZpxP9hs=",
+        "priv": {
+          "salt": "aKUA2Y9ZaP9sAkMcoMBeIA==",
+          "iv": "bwfmMzgg99Pwt0/t",
+          "data": "XPxscZQOJ4vA3m7MXbjdWePlXWxYJ6KTCcXHXbRX9nDELVCpSi0yVXULyeqA1skHTQKux7yqHwek3BevJkpzcbCDIwF0Wa6KYWjtmfd1KSk8C/lAExhFN+xn7qG06vne1kelv1A/KYgrEsRLLS+GZKEX081nR8PjZyaxEFaP6gUMxBwoNgjg1PgfhCpyGNtaRnCDGBtFjKHXcw1QoCyjm5saeXuMonEK9UYZ4lnIqFBwfczy8A/RtoPke7OuiulDbHc3obq9hfk=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BHua9i2IGkpRi2l2BNvZjWA9bDZ8lKvZKhN2c2lsvtiOAnU6mNaK2DSfNn4Eao2M1r1/Ufru/NPE0VKJebOV9rg=",
+          "iv": "ntINON6HMF0Xkm0/",
+          "data": "onhxTSW2qhPMm2jRgl2hucxVvpQtvkqOvpr+89f9xxZ/dOFYWxublxdA4D7B16X1ImuFX72YVZIR9/7KbIAYVgHvmIjklWODDxTLmKtbYOk1RbAWdFCwCvU/s4/A9MxLGnReSZugenFye20Pgw=="
+        }
       }
     }
   ]
