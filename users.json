@@ -46,7 +46,14 @@
     {
       "name": "Testx",
       "color": "#7c3aed",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "Kl5aNCe63hnuFFQ+3hxLjA==",
+        "iv": "Jz5fit6uoel/mCU2",
+        "data": "nLeyO/NjhngbUFfVaAILDx61fL6gsgH6Qo00RYdmt7W+ceOCiZ+qdzfFH7DhA8UYnMQdnOA5s1vZJP27rPzo3x5V/nIOJn2W/kfnSW6ngSylXUDG1GbbthRGzzedar1CHmXamqR7ZGhXcDsAnA==",
+        "exp": "2026-10-08T20:58:36.255Z"
+      }
     }
   ]
 }
