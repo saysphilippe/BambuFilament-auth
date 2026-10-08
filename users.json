@@ -6,7 +6,7 @@
       "color": "#2563eb",
       "admin": true,
       "mustChange": false,
-      "shareAms": true,
+      "shareAms": false,
       "shareLibrary": true,
       "kp": {
         "pub": "BI1Hj3fkWcn1Qlz8xCz4hhQIvWP/YYKiVFGuiy4ve7DA1Jwh9YuscBf2E1y91Pizc97nFGtjMb5+8pt8oNNeZzc=",
