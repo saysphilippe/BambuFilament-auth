@@ -16,10 +16,10 @@
       "shareLibrary": false,
       "reset": {
         "kdf": "hkdf",
-        "salt": "RShyURHVu96c8lWBrCCJCQ==",
-        "iv": "bbSsGeDdum8elyrr",
-        "data": "3yC7EPTvJmr7q2YlpIHG7luMajcGQWQLKvVZ0cBXn2IQu9wfTKO5uLxZJ7ZKxDaE91Ta9vpjqbYioOUjMhfmg6n/w4Yv/dyYnxs4+Ob0hRJeTsL+aFbto6oXx5Lsjlgh00mCMjkxgM8QKArCsQ==",
-        "exp": "2026-10-08T10:27:48.652Z"
+        "salt": "lO8Ih1al/T8Z7JoCZu8Gpg==",
+        "iv": "VlWT1PDM+t+zGULE",
+        "data": "S/CPQ70/WStFODH5w0+E9KXIOPG8BEeZpSoXqCcnlP1Up1ej6ocNvTTqo/jmJZg4OSVJCbAU1s9/6Gl4aRUPNu+LH0T/UZy9U0TDZ00/haPvEkcr4eLLiL0sYU9TzwbArGXO1FttOEM3kaJ9ow==",
+        "exp": "2026-10-08T10:28:14.259Z"
       }
     }
   ]
