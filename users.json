@@ -30,7 +30,14 @@
     {
       "name": "Test WhatsApp",
       "color": "#7c3aed",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "HV59/monb5TQDgL+TIO3Zw==",
+        "iv": "Ggu8LZyRuK2qfE+2",
+        "data": "z/ncJOxHsojUmBXqhbm8K8FaaV71vNmBouuwDBZg9fKJK2mQWqScG5rfReeA2O8J0BBYeIXw5tZBYpEjawsPe8jIS86+wvqMXO5HIbNsF3+1xvnI3nc+kOyPfQ8Cc5HstrDDFnON6X1Rjgg9rw==",
+        "exp": "2026-10-08T12:57:46.907Z"
+      }
     }
   ]
 }
