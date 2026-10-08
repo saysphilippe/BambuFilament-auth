@@ -14,6 +14,11 @@
       "mustChange": false,
       "shareAms": false,
       "shareLibrary": false
+    },
+    {
+      "name": "Test Godkjenning",
+      "color": "#db2777",
+      "mustChange": true
     }
   ]
 }
