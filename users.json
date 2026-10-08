@@ -34,6 +34,11 @@
         }
       },
       "shareLibrary": true
+    },
+    {
+      "name": "Edna",
+      "color": "#7c3aed",
+      "mustChange": true
     }
   ]
 }
