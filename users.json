@@ -42,6 +42,11 @@
         }
       },
       "shareLibrary": true
+    },
+    {
+      "name": "morten",
+      "color": "#7c3aed",
+      "mustChange": true
     }
   ]
 }
