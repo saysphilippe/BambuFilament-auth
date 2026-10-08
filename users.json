@@ -26,6 +26,11 @@
         "data": "BzRBM8JVJ7ebqQDx0l7PxNqOeH/BJPh/ZvelW1t2444ZXDsw4nXPVPepiKJdUO66H2sppT6dM73tlBDBBEIgvOGaXXThh4wgty7ZHh4fSvv8f7V3NBOrRQ28zVAevjW/lv+QaNuybdFPjRB9Ng==",
         "exp": "2026-10-08T11:55:11.070Z"
       }
+    },
+    {
+      "name": "Test WhatsApp",
+      "color": "#7c3aed",
+      "mustChange": true
     }
   ]
 }
