@@ -6,12 +6,12 @@
       "color": "#2563eb",
       "admin": true,
       "cred": {
-        "salt": "hGLj5gGI5KDjHgWR2kApjg==",
-        "iv": "11IesKic0YDM372/",
-        "data": "G1XzbGmiaoi/ZJ/LIRsjgUUz3iRRZ+deFy/QqdR/sIeMr55EjqzXsHUSkmnvGjRcYyZGoYozEjocRp1iLsnpwYC/lr816MJcEeufBg1xOxyxVBkio7nukoEL9O+yOEcy32I0Peij0AJ7jXOkMA==",
+        "salt": "pMtl3V08NARae9ONAiP+mQ==",
+        "iv": "JH0lsvNEnlTEU9DR",
+        "data": "yCAMQxdc5V44OxfiMPSJ0s8C8Ryo4uhsYnjv/5Whx0DsXqyoC2ObFbngyhl32D6694r5kZRhxqKlK9IN2aDuMCbQnVEU250Vr4uRRQML2MwOuXMEUbUUBaK19vE1kZZVRpmdkaWpZOrOG+o4sQ==",
         "iter": 600000
       },
-      "mustChange": true,
+      "mustChange": false,
       "shareAms": false,
       "shareLibrary": false
     }
