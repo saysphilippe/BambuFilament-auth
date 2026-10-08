@@ -21,10 +21,10 @@
       "mustChange": true,
       "reset": {
         "kdf": "hkdf",
-        "salt": "PGNuyvSkCNLQZDwTTZa2jQ==",
-        "iv": "afe0ZFihiBABm6WT",
-        "data": "BzRBM8JVJ7ebqQDx0l7PxNqOeH/BJPh/ZvelW1t2444ZXDsw4nXPVPepiKJdUO66H2sppT6dM73tlBDBBEIgvOGaXXThh4wgty7ZHh4fSvv8f7V3NBOrRQ28zVAevjW/lv+QaNuybdFPjRB9Ng==",
-        "exp": "2026-10-08T11:55:11.070Z"
+        "salt": "BqYOQXGvaCQW2nQHcrhWpQ==",
+        "iv": "GTxgtbVVbIV8ILlD",
+        "data": "2+MkGJ4xeeUJ2jBKMUx79Jcl+J4PG7XTvxQSyYK+P7wVsCLl58JcYDjVWwKFtdOpeX6EAmWXZvpebxRA3y6UexkOAGbBt7l1l+ScxRMrdmstNkwbEPoeb34QCM00OptEM2/Jr034e/qgwcs+pQ==",
+        "exp": "2026-10-08T16:10:18.781Z"
       }
     }
   ]
