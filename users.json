@@ -6,21 +6,14 @@
       "color": "#2563eb",
       "admin": true,
       "cred": {
-        "salt": "pMtl3V08NARae9ONAiP+mQ==",
-        "iv": "JH0lsvNEnlTEU9DR",
-        "data": "yCAMQxdc5V44OxfiMPSJ0s8C8Ryo4uhsYnjv/5Whx0DsXqyoC2ObFbngyhl32D6694r5kZRhxqKlK9IN2aDuMCbQnVEU250Vr4uRRQML2MwOuXMEUbUUBaK19vE1kZZVRpmdkaWpZOrOG+o4sQ==",
+        "salt": "xAxYs7yacKjVRRHMAwOHmw==",
+        "iv": "NyuNMUazlCpEL7xV",
+        "data": "jgefH069w/J890EyQjU/YS7fV3ptMLtudvTBK3yKPfGSyctXrSBqWp0wSlEjgnoNrsErlPRa3dOT6EdTS9KJw21t+uDTmEDFEUTWjhjVIUYuv0YzaddzOHxt3ezZcqpjX417n+l1M7bV3+hF1Q==",
         "iter": 600000
       },
       "mustChange": false,
       "shareAms": false,
-      "shareLibrary": false,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "Hi754FGhxe0dPRC7zryy6w==",
-        "iv": "QOjN06PYzbnQeD99",
-        "data": "oMogjLXpA0XICiYL1PR2XA35zdlEI0jIQEW/rja28uZhrGQ5Vg3qoBizDlplwy1PcKvSYHGhz0LLQrHRF3sIKAOgbLl451tnkM58WQJ/+LGiUuD+5cSWbMbDoRA0GAeNGUJdpWr6kE2hrlD3Ig==",
-        "exp": "2026-10-08T10:38:07.580Z"
-      }
+      "shareLibrary": false
     }
   ]
 }
