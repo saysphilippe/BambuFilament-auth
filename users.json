@@ -18,13 +18,20 @@
     {
       "name": "Niklas",
       "color": "#db2777",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "BqYOQXGvaCQW2nQHcrhWpQ==",
-        "iv": "GTxgtbVVbIV8ILlD",
-        "data": "2+MkGJ4xeeUJ2jBKMUx79Jcl+J4PG7XTvxQSyYK+P7wVsCLl58JcYDjVWwKFtdOpeX6EAmWXZvpebxRA3y6UexkOAGbBt7l1l+ScxRMrdmstNkwbEPoeb34QCM00OptEM2/Jr034e/qgwcs+pQ==",
-        "exp": "2026-10-08T16:10:18.781Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BHleg2L3jPI5TgySpT7J8yexoXaC4wLOzRkigSAZUpjdM8TahFCFKQlTcwsnCHrZx721kLYoP/OgvrgkcfQaoMM=",
+        "priv": {
+          "salt": "0JjjvmK6lPpePVQjs8Hd3Q==",
+          "iv": "NidtR+8iSgmAztS+",
+          "data": "l1Y0R/VBLSAj4lDpRBvnoc1EZ30Mea9sWwIhsJMIhr0De0UJ7h/LvharQaTJ/QIezPscw3oU/Bm0tVPSR6BVUs0SHEFawt1UyhA4ZJDWbIwYcHdjt8GFuvlGdhcB6DkTB0jgHaE6eSwyOSneFoJ1KoGpzTYeugI4q98rD5hlPAlPZ58NzS139o5f9m8IZcAZ64j2k40D7da7sZ2e8epUrfjO27WSik6v0yNLzzRWX3wmdeWuYPvjZ2Fr5cvu+lRLdfnSV3OYk6o=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BByko8GtnPz5/d2G/dVVD5/jrp5yozjCxWf+Kp8+u/AyS/OWgG9fWIHWxNjGPQaG1kSpzvwk/2gRtdYdOHQCJTA=",
+          "iv": "g/uYXvatZzOph5vQ",
+          "data": "x+NgIVUEwnnTqcmcHbHhd3c99FYktP1gee3cg2tZygcKBbKg+upY1ByigJva8L1B/paup2I07zgqGf5KZ6G11WFOTAI8T2vRAJ+YnP+Gpz+WEXZU+b/IcxbX4HBwyV+ej9Ggkyr4r4cZ0xCr4Q=="
+        }
       }
     }
   ]
