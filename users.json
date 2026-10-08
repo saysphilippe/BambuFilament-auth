@@ -46,7 +46,14 @@
     {
       "name": "morten",
       "color": "#7c3aed",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "Bu4deO7hAWkKZHD6lIoFQg==",
+        "iv": "mC3kwxp5nAe6PFn6",
+        "data": "HVbRkCI4Dqlqk/HraljXUAtJnQpE6J4kDLI4r/6nHB9AXZCbKlAdPpHo5j20diYvEFsI8oaaSKQk0mZYWWllKMgD62lV3mK83G4h046QYt5e9GeYjjZahGrra1aR+PYGIrx/WLodrOp6jHoNaQ==",
+        "exp": "2026-10-08T22:01:01.710Z"
+      }
     }
   ]
 }
