@@ -38,7 +38,14 @@
     {
       "name": "Edna",
       "color": "#7c3aed",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "ziH2wudhxTN6O8Z+nDtjYA==",
+        "iv": "QElMhwpjBLc4kF3c",
+        "data": "isfyG7aDizvUOsD9v0I1N/gLyrW4iczoSq4xABohLJsoq5e2d1uztOlWkdnwTQ0k6HNkD9NRod9pwoBnUoWDkGy1FCVJ9XGKAyRSi2E6jcAQJQdFjhnzJI63S7QIH0aDCdSzXgSios3YeKTTvA==",
+        "exp": "2026-10-08T20:19:13.369Z"
+      }
     }
   ]
 }
