@@ -46,13 +46,20 @@
     {
       "name": "morten",
       "color": "#7c3aed",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "iAt/oZtZbeRtaH1c0j7QXg==",
-        "iv": "9WAHW1b5m0seYbo0",
-        "data": "ek4aEybHCRtpA7TlC9sqctf+uqhcpdtWShfRFlVKLJXNbElJCBGrGf/Xm/D+BBNo6+QLdb8wWE34To7U8z+IsPsmd65JiL3pL4v/qHaDkEIH46h/0RTm2vOa6XQaEFvjIjKYcauc9kAQFyjY/A==",
-        "exp": "2026-10-08T22:03:36.354Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BOAp6tAV9vfYLHydklZ0P1VH8OWoswfbOWimARgXuZLqUOsxo0+7RsATKReSNSrKwpc2A+X0+/Z8YUg2PP2LMFM=",
+        "priv": {
+          "salt": "APZ3f9Y8PgQF2yrAPDnjYA==",
+          "iv": "sl8qkeVZSW6Anmtn",
+          "data": "uPACC/vr5m2mEZEFl9DdQudB0Y64KTF84eS5o4ChtHGaBo4FhBwZHWiZrqnnJBStS2U6ftrqrjwi13IVMMv0GMXrgaa7Etk4iYsARxyXUVmD4671vGGF2mGPzI8bbMUgrjQyxZgZ3VXZjxhlQkmenDTQ0wc5z0T/DHEoXZUEwSjuQKuHXo4GALYtsMYV8DIB63nsiZOgKn4h3aZj+/VuzYw+W7J1yOmIGVwjSQy7FJpJIQ8aJzp/fbyExR5JGpt07Gapt/rJ53Y=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BGBIAf6KhgcYPQ4ECwoW/SXlGzuhYaS/6ftzzLcUO4QjoMPFHD4dSTt6SDGsVxavshXT2iEaBKZzj+We7/VUi3s=",
+          "iv": "CxfdZEtsBQMIMF6p",
+          "data": "MMKBRZxGCAzT/2FLascREi33femzTvZYoGT/hWn1oW1YrbBIoXo8FVS6xN2dbeCUuDKhbzaeDweUb6VjPdegJAgQNI12D3WkLH7QaSThREz0icE4we/8z3cjB+W7B6c66KATFy1lmOHzgvgQAQ=="
+        }
       }
     }
   ]
