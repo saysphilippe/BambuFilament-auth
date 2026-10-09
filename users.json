@@ -65,13 +65,20 @@
     {
       "name": "Peter",
       "color": "#0891b2",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "VVGXajA6Mfg/qKLo9dbzIQ==",
-        "iv": "q3xTAa/uG4x2dSH/",
-        "data": "VLqGy3s9kVLJ3g5IgSc5gBBToEeyWq2NCD1xPvrKIOsXd93VS3lE0+zRgNdleNjw8Enla3iBVXOf4mjSzzZKcWP8ZbK0mRwzs9Fd4i3lx3G5nz/W46jOXYJUVg4rCEnnI3ZmEvOaGFy7y+5KoA==",
-        "exp": "2026-10-09T22:31:14.446Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BFaGQ/B9i6RjduT9a2/SHHMLS7GPfIjvpls0T8JjJrr8cDWzmUETOGXRW9Sp+9HG51rqb/kTgKSjWoWUl1ftLLM=",
+        "priv": {
+          "salt": "z/PQGIdynDL3SDVJwlli6g==",
+          "iv": "iB8t2Nr8KVph4V7q",
+          "data": "M1/RpMyDZpn4PLoJu5prHBcueUEGoUFMTfkW4m+LsxE1RH38VS6VG2Qp9fPw1EuEVhKlVuq6g8P5GOyZLlDwDmNwV/Jlno97Q0+SK7OS0AIJTdK0eMpohGSsXoY6WL5kMvjntv99FFFD7DjqgAQjvYNlZqk6EtgFBRd4HTYPoOoP5F70NdVJcYcchPZaVdgZ6rqrMR+ZBUIDJOnDWfjK4Ke+V2MSp2+jZ6HGY2eqp33qCG+2sduEgISOKX+J71YU5hzrgMhiLBI=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BAZ0frLPgUYzsRCrwoZ0dMoueiBtuoGAyRBhg+yGmRCgAGwGdQ0K6g+ihKKm+TccTZJOt8Vkqm1/qGOVvutRqOk=",
+          "iv": "KL+TGp9Bi04LKuym",
+          "data": "zXbyTids59EJKuHxEwL8EvrDDZk/l7v9AdQATJRAkwUcUrJ0cByk1ahzn5kRmVLuRDrcTmNn0sPBolnffkXqRyX6K2A5z1ZBMrR/J0SFIjss78Z08vbyf+yj7p0KKG8AnFcEFIa0qqMnZQ6D8A=="
+        }
       }
     }
   ]
