@@ -65,7 +65,14 @@
     {
       "name": "Peter",
       "color": "#0891b2",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "VVGXajA6Mfg/qKLo9dbzIQ==",
+        "iv": "q3xTAa/uG4x2dSH/",
+        "data": "VLqGy3s9kVLJ3g5IgSc5gBBToEeyWq2NCD1xPvrKIOsXd93VS3lE0+zRgNdleNjw8Enla3iBVXOf4mjSzzZKcWP8ZbK0mRwzs9Fd4i3lx3G5nz/W46jOXYJUVg4rCEnnI3ZmEvOaGFy7y+5KoA==",
+        "exp": "2026-10-09T22:31:14.446Z"
+      }
     }
   ]
 }
