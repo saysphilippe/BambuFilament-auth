@@ -61,6 +61,11 @@
           "data": "MMKBRZxGCAzT/2FLascREi33femzTvZYoGT/hWn1oW1YrbBIoXo8FVS6xN2dbeCUuDKhbzaeDweUb6VjPdegJAgQNI12D3WkLH7QaSThREz0icE4we/8z3cjB+W7B6c66KATFy1lmOHzgvgQAQ=="
         }
       }
+    },
+    {
+      "name": "Peter",
+      "color": "#0891b2",
+      "mustChange": true
     }
   ]
 }
