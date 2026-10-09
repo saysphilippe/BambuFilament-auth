@@ -79,6 +79,13 @@
           "iv": "KL+TGp9Bi04LKuym",
           "data": "zXbyTids59EJKuHxEwL8EvrDDZk/l7v9AdQATJRAkwUcUrJ0cByk1ahzn5kRmVLuRDrcTmNn0sPBolnffkXqRyX6K2A5z1ZBMrR/J0SFIjss78Z08vbyf+yj7p0KKG8AnFcEFIa0qqMnZQ6D8A=="
         }
+      },
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "+UXRcpGPCr4088CT5O29fA==",
+        "iv": "OYtiu0mlcIjhwX95",
+        "data": "UxQa51f5CcmQ8tS+KJQv/cSWijBGrbHwII4zu4gJl/AWc81Ms1hVSY8zTN9+tO9Q3tKQj8jWysOfaMn+wKrdoipPbi0QSmCJ7JifeRXogdY8nY35oCD1GLroGRMBtIqfOgfM64sAWQt7lx8e2Q==",
+        "exp": "2026-10-09T23:33:27.509Z"
       }
     }
   ]
