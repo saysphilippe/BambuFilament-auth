@@ -41,7 +41,14 @@
           "data": "x+NgIVUEwnnTqcmcHbHhd3c99FYktP1gee3cg2tZygcKBbKg+upY1ByigJva8L1B/paup2I07zgqGf5KZ6G11WFOTAI8T2vRAJ+YnP+Gpz+WEXZU+b/IcxbX4HBwyV+ej9Ggkyr4r4cZ0xCr4Q=="
         }
       },
-      "shareLibrary": true
+      "shareLibrary": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "3FYjd4gGWQl9kay5DFmz8w==",
+        "iv": "8XNAgyzz+qGmCZcS",
+        "data": "tlzxUzeESlgcJ8ASIqi+nz/bhbcTJLsC961a+/grEi0CO/XYNRW0CN8fa61iSdmtLKt2G0v4hQloV0ufjZ7LAluyhoeBhA2kdSc4x0T9M9fLzjIDn9VxAdCSlAbHG0DyUo9b+rZYM32Nuc/fJQ==",
+        "exp": "2026-10-12T00:39:25.226Z"
+      }
     },
     {
       "name": "morten",
