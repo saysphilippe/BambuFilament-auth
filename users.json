@@ -91,7 +91,14 @@
     {
       "name": "athill",
       "color": "#ca8a04",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "kiD8WSpk5nh3PB4ronwe1A==",
+        "iv": "mbCmZtk0ncTseiqp",
+        "data": "HXr61/wLl44PhvRbVzieNwt6DCWCfs59tPsFhxIrjIpe9dD7dZavok6X79kKSPgCsBObWr92YgdEsTY7hvlmtJIdyLL43jVz1nV33SnkEy3HwoqhMeBPV6VyUMSgH+uQTWUc2bQY32dsZFUedQ==",
+        "exp": "2026-10-11T17:58:34.530Z"
+      }
     }
   ]
 }
