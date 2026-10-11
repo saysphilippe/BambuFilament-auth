@@ -87,6 +87,11 @@
         "data": "UxQa51f5CcmQ8tS+KJQv/cSWijBGrbHwII4zu4gJl/AWc81Ms1hVSY8zTN9+tO9Q3tKQj8jWysOfaMn+wKrdoipPbi0QSmCJ7JifeRXogdY8nY35oCD1GLroGRMBtIqfOgfM64sAWQt7lx8e2Q==",
         "exp": "2026-10-09T23:33:27.509Z"
       }
+    },
+    {
+      "name": "athill",
+      "color": "#ca8a04",
+      "mustChange": true
     }
   ]
 }
