@@ -28,27 +28,20 @@
       "color": "#db2777",
       "mustChange": false,
       "kp": {
-        "pub": "BHleg2L3jPI5TgySpT7J8yexoXaC4wLOzRkigSAZUpjdM8TahFCFKQlTcwsnCHrZx721kLYoP/OgvrgkcfQaoMM=",
+        "pub": "BGiQ+r0x8d+GQljxlPWm0PvPBZ0KVKrJk47AHfuPSpBkCC6dqbJLRduPAlhSlja6HVMbcCpOte/ih3sWqKyOY3w=",
         "priv": {
-          "salt": "0JjjvmK6lPpePVQjs8Hd3Q==",
-          "iv": "NidtR+8iSgmAztS+",
-          "data": "l1Y0R/VBLSAj4lDpRBvnoc1EZ30Mea9sWwIhsJMIhr0De0UJ7h/LvharQaTJ/QIezPscw3oU/Bm0tVPSR6BVUs0SHEFawt1UyhA4ZJDWbIwYcHdjt8GFuvlGdhcB6DkTB0jgHaE6eSwyOSneFoJ1KoGpzTYeugI4q98rD5hlPAlPZ58NzS139o5f9m8IZcAZ64j2k40D7da7sZ2e8epUrfjO27WSik6v0yNLzzRWX3wmdeWuYPvjZ2Fr5cvu+lRLdfnSV3OYk6o=",
+          "salt": "XRh39wd/tTHUcpp4GnQlVg==",
+          "iv": "p23qL7jIcXJdJCHZ",
+          "data": "1+j2Ab69cgXwVJaowTUchesF3ds0ZIkYbxgGQ3GP67IB3h5fnTK9nS1zhRupCXtzOwM+vsmrPhFgXwZ+W6jG/WVmO21oB/2i7O5JkcnyS+kY4AsKphsd0gTrjgMPEBgTR9AuTJ81f7yI+9bCVyFGlypl4IMrX7xgqQILKkTi8sdFLpiJxfOjyb9L9sTmHEowjIVRQIvAdCcxDuAf1vEvPnZ7frFgSSpgm+XKUq2nylfRkbxv1wRaPi+hnGQ9zdaH8h+9SuxtqTI=",
           "iter": 600000
         },
         "box": {
-          "epk": "BByko8GtnPz5/d2G/dVVD5/jrp5yozjCxWf+Kp8+u/AyS/OWgG9fWIHWxNjGPQaG1kSpzvwk/2gRtdYdOHQCJTA=",
-          "iv": "g/uYXvatZzOph5vQ",
-          "data": "x+NgIVUEwnnTqcmcHbHhd3c99FYktP1gee3cg2tZygcKBbKg+upY1ByigJva8L1B/paup2I07zgqGf5KZ6G11WFOTAI8T2vRAJ+YnP+Gpz+WEXZU+b/IcxbX4HBwyV+ej9Ggkyr4r4cZ0xCr4Q=="
+          "epk": "BDqVEkBDHkNawNVnEdqweBPKKZ+fZts1941XptzVbIPhfVWl8uA7uZvI6tZy6diKnT7Ri4oR0gp7GNmtbK81djM=",
+          "iv": "K6xs33TTfdQqHHvd",
+          "data": "2m/ErfGwyrFiexViK6D3qqLeRSgz9aZYj/9gzmbaAvNEHuF21puS6Tb5Uci8ak40P7qHRptMHB4OULvt1Vq+jqp46+a0yATH7IcAhXoVRgLsbDwYrIo7oOwxy8T12ttoAtpzDZXyWpzHpiFrKQ=="
         }
       },
-      "shareLibrary": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "3FYjd4gGWQl9kay5DFmz8w==",
-        "iv": "8XNAgyzz+qGmCZcS",
-        "data": "tlzxUzeESlgcJ8ASIqi+nz/bhbcTJLsC961a+/grEi0CO/XYNRW0CN8fa61iSdmtLKt2G0v4hQloV0ufjZ7LAluyhoeBhA2kdSc4x0T9M9fLzjIDn9VxAdCSlAbHG0DyUo9b+rZYM32Nuc/fJQ==",
-        "exp": "2026-10-12T00:39:25.226Z"
-      }
+      "shareLibrary": true
     },
     {
       "name": "morten",
