@@ -91,13 +91,20 @@
     {
       "name": "athill",
       "color": "#ca8a04",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "kiD8WSpk5nh3PB4ronwe1A==",
-        "iv": "mbCmZtk0ncTseiqp",
-        "data": "HXr61/wLl44PhvRbVzieNwt6DCWCfs59tPsFhxIrjIpe9dD7dZavok6X79kKSPgCsBObWr92YgdEsTY7hvlmtJIdyLL43jVz1nV33SnkEy3HwoqhMeBPV6VyUMSgH+uQTWUc2bQY32dsZFUedQ==",
-        "exp": "2026-10-11T17:58:34.530Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BILX72OCMblfFx1ziDhpmYXlFncgXll70zcLcCUa1m5xxSUh6CcY6Fmlk96EeNMgHL7kN42+3Izy6yhzfehBEHI=",
+        "priv": {
+          "salt": "nDxumT8iccUgi7Job/Iidg==",
+          "iv": "MdgVtul8O27GxnDB",
+          "data": "EJcUM5+XuJqN8E6S3363nXGI34SrWRxUrJcU9uTIzLBZqLrfnI5FnReMGcPpyPaUnu58xTKiy9oY/XHyvDtY0ucliT3OEDQpF2uhT8JCBHqvQ/qHDyQOxYVOwfeeaJgpYf4oF02yeUKxa0rQBk2dttikXrvP0WKRtY+10WlINrZLivEQS2hspstOtD3UgXiLvNyEVTbPjBmoH2ezNsTNKkBn0a6y1aETflNBG3t7cdnGgNnAPqYw3k+TJLSlVz1RJVYr+wape0o=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BPe7QM35Pyc/UhCrf147PBipppodPeUzNXMSA9bCbAwqncq9Zu5q1uAs6TtOg0Afc3Mqdudhf76MFX7MKrrqONc=",
+          "iv": "EwUi8GNWtk/GvaUC",
+          "data": "TNX5XYzRVHgDe6IORMT3zTymxfy55ICyPZomldPGABF/v+aOFZmrjDCZ7brmPbT3E/o2oakz6vEIxOASEec2XGqb4IBGxmIy3jOEQT3o71Qkx9mJHPz46u1F/5n+zRq/AUbJWiG2aBa4GmC+0A=="
+        }
       }
     }
   ]
