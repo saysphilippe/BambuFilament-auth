@@ -111,7 +111,14 @@
     {
       "name": "atilla",
       "color": "#ca8a04",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "6HgsnZ8oibGTeVWNSUM5EQ==",
+        "iv": "6Ohcy3ZYZK+3gEIG",
+        "data": "vfM9x34kGueBziNNCU4U0KTHLEkOOi9nkvO4pVd6mkBTw8F9gUqfmfFxjJeZIylClMkL5evK60YSDoCUwkB6QASIvbLwgVdVPNF/PP8OEGmzKkeZ4dPgoOyijhZ+/r65yn8cV4IBYElQnQQ+hg==",
+        "exp": "2026-10-13T18:09:18.002Z"
+      }
     }
   ]
 }
