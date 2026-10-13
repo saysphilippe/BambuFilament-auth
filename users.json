@@ -107,6 +107,11 @@
           "data": "TNX5XYzRVHgDe6IORMT3zTymxfy55ICyPZomldPGABF/v+aOFZmrjDCZ7brmPbT3E/o2oakz6vEIxOASEec2XGqb4IBGxmIy3jOEQT3o71Qkx9mJHPz46u1F/5n+zRq/AUbJWiG2aBa4GmC+0A=="
         }
       }
+    },
+    {
+      "name": "atilla",
+      "color": "#ca8a04",
+      "mustChange": true
     }
   ]
 }
