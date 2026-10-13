@@ -111,13 +111,20 @@
     {
       "name": "atilla",
       "color": "#ca8a04",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "6HgsnZ8oibGTeVWNSUM5EQ==",
-        "iv": "6Ohcy3ZYZK+3gEIG",
-        "data": "vfM9x34kGueBziNNCU4U0KTHLEkOOi9nkvO4pVd6mkBTw8F9gUqfmfFxjJeZIylClMkL5evK60YSDoCUwkB6QASIvbLwgVdVPNF/PP8OEGmzKkeZ4dPgoOyijhZ+/r65yn8cV4IBYElQnQQ+hg==",
-        "exp": "2026-10-13T18:09:18.002Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BHptCmeBzduR2+NeLWjQcgdfxNow5EAyPHDlnPQQU0yJhWNxBUuzYu/7tVdi+NWckrA0m/jmIhxo6WYywAKZ7H0=",
+        "priv": {
+          "salt": "rmIL92N8fIT5RDpmhb+pzA==",
+          "iv": "tA4HR+BuJl9BrtkF",
+          "data": "0h3dcFvdo6mwd5qYdHramAWD/faG2q1ofC0jWMlS201u4zV5+fF3uSJOFT3TKCxETfAn/fdGMueU2GBMjJRkAndjKv9/xPPHs4nF5ab3MmbJ6v42m2Yj0F7CxMbx68Au6RbU7fEAVUM5FnfNR7wD2ZtB/NDwAgy27hkCIegAYPJX62AkXHVeCk9cFFPn+HZj7ljnk5Ljm1n4LSjH2FAKgk2Ov2mw5L5KIlaZdsZVlKzIqmwyuj7L8qF30eDNKIXN4OBkMiPHyqc=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BE6uOM3+yGNoGV/82Xw5rIS4wdcjwCBJb0KUoSd0b7fzRhXCyjzKF1/j8e15laOrMeIp7TMPKP75Fj0yTYvuHcU=",
+          "iv": "7qcO8tqJSvNRXSe+",
+          "data": "yUL4sbvhYqCIcfG8vU6j7hSoRvnEnA2UJkH9Tfh81Jt46ItnGGAgXB4SvV4BBPgbc5uXWUNvkBt6/Vchw1pdFOTfH2BP2iR9ZJBnklhGdfjagysGmxgn3r822kODb7/oNYb+KDkQ6FPm8wFggA=="
+        }
       }
     }
   ]
