@@ -130,7 +130,14 @@
     {
       "name": "ArnieO",
       "color": "#dc2626",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "yULQSZWX7RclFVedjW5Vuw==",
+        "iv": "4r0LdG5r1IG3TTQ7",
+        "data": "umBzpa8scvH+eFprIWLLFIGTQwSnnettiPEmgVw3a2osFDNpkmMLiwdvv0Cj4AEisTJ2ydyNmu1ILnVmRull3tcR0MnTgg1KCK2g+mw0ZNBuYlpS+dJteXazP2BZ5TES/fNoeEeTn4fc9wMuPQ==",
+        "exp": "2026-10-14T15:18:49.291Z"
+      }
     }
   ]
 }
