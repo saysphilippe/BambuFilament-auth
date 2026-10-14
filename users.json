@@ -126,6 +126,11 @@
           "data": "yUL4sbvhYqCIcfG8vU6j7hSoRvnEnA2UJkH9Tfh81Jt46ItnGGAgXB4SvV4BBPgbc5uXWUNvkBt6/Vchw1pdFOTfH2BP2iR9ZJBnklhGdfjagysGmxgn3r822kODb7/oNYb+KDkQ6FPm8wFggA=="
         }
       }
+    },
+    {
+      "name": "ArnieO",
+      "color": "#dc2626",
+      "mustChange": true
     }
   ]
 }
