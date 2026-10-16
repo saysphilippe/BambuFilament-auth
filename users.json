@@ -149,7 +149,14 @@
     {
       "name": "AKR",
       "color": "#dc2626",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "6xLaiYB7xch5DhTe2XPpdw==",
+        "iv": "xmdnyshrd3ttNY8q",
+        "data": "yvFnkVvvkRxPfjlgysj5u2OCqYAScTfzMTo9LtW3v3k8+05mqMpnd8sfWYKR4X34F7b0FMo3nS15IwqbC/6hbPJ8gtcjjh9+kHMDzl+5+FtvnmtbZ70APibc5Gh8I9JqVycq+aLmk+JSXDJ+fA==",
+        "exp": "2026-10-16T12:25:23.890Z"
+      }
     }
   ]
 }
