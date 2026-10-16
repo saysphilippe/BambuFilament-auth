@@ -145,6 +145,11 @@
           "data": "SzpqLIOLi92XAeHidMwIZHY5Y/giNoKJcjL93rP6CIDfDcJla2cGK9lHKaajFXH64Bm/NiLe6pYR3K4YgKrEaITQ1qeq1psr+3+N5d9W8eegn9bnRbI7lYCwbTsji0lTnK6t48gLwzw1bR5Yow=="
         }
       }
+    },
+    {
+      "name": "AKR",
+      "color": "#dc2626",
+      "mustChange": true
     }
   ]
 }
