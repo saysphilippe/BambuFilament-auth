@@ -158,6 +158,11 @@
           "data": "Mx8siYjk01hB64Invc3YuVdmEWa/VTvS7eTM9w44byEsLcU0f/JoaYUJDrY4Q0G7+i8lXjHLW+oQpzYO0hVLrifyRdW2s9geGcz/iCVtB7GSi+BzOIq2fpjUq3eeMbSnGsWaPcaZHsbKLj4WWQ=="
         }
       }
+    },
+    {
+      "name": "Protoboard",
+      "color": "#4f46e5",
+      "mustChange": true
     }
   ]
 }
