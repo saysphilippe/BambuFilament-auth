@@ -162,13 +162,20 @@
     {
       "name": "Protoboard",
       "color": "#4f46e5",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "u4YSp2EroGfZcYfO81zh6A==",
-        "iv": "JgD0izC4aUllnl+T",
-        "data": "rEwus6lCt5IgNaDGF8GD2SoyyKO1LL5uLUE5l/37HZOaUeTdswKxsJ80uvmpT3SvRdj8ItOmFBAXpvqkVifvHDSxLBO6DSqcLaCcB57SbREqFhK0R0fOWOxXySNDX/3fSurFvC/k1g/FfrQK0A==",
-        "exp": "2026-10-19T20:53:56.173Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BOUafp1GFsjKzZY2Oq86u4LfMNSnT9gWfYAu86QSoYtF5vO8olYMNXgZYV9ej8d77BKPhkkgRz5BbxPPHxa4euw=",
+        "priv": {
+          "salt": "OPZ45zwFcD3VkqDupcibzg==",
+          "iv": "tfV3Ll4TyH/z+Pek",
+          "data": "AcMQWZmNGQEb8kPXLt+aAWR4g5AdHAZ0CuvurWXgrteNmnK1BiBCLTLGL5Fhh3WlmNnsFqdyOp0GcSrbObx/NM3omkMOa20GZZ1O02GnGBZJUfFsEGXLL866XWCDfEYNMbLaSMuZPdB7KoKJZIzuBXH1ypxlx4iwXBrAmywVU5mWYmL8jr/e5VVp6pDWrwEcXHBfoooY3xIKv78GSV5H01ZPlJ7svEwwejsDeE8Okc791xTlT3LnFsRhqglHg9X3AZJZOtKCa3g=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BPKYDOvtXVv6A7PM4u9ZkBhADlRqP5SmzP8gFiND89Tm/cdTomoUuo3iVr0+JVMlBnc3lecgBA0SoCLt3Udji2s=",
+          "iv": "677vVpsc2anfXSSO",
+          "data": "ZF+FmgFmNYXK+a9JSXhfjvHgbHKpYvcxug/ky6Yy0hblHlUXs9BqRXywwb5IoumcIDAcHS94TS3ZeOfFaVWPAC1P/nwWgrSwKh4IGuGHX78L5POMmyMNlSqfjQz8bF+AVZHyJZykyf9eQWkWXw=="
+        }
       }
     }
   ]
