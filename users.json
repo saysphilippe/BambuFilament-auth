@@ -162,7 +162,14 @@
     {
       "name": "Protoboard",
       "color": "#4f46e5",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "u4YSp2EroGfZcYfO81zh6A==",
+        "iv": "JgD0izC4aUllnl+T",
+        "data": "rEwus6lCt5IgNaDGF8GD2SoyyKO1LL5uLUE5l/37HZOaUeTdswKxsJ80uvmpT3SvRdj8ItOmFBAXpvqkVifvHDSxLBO6DSqcLaCcB57SbREqFhK0R0fOWOxXySNDX/3fSurFvC/k1g/FfrQK0A==",
+        "exp": "2026-10-19T20:53:56.173Z"
+      }
     }
   ]
 }
