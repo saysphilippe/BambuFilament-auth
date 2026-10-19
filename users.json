@@ -69,25 +69,18 @@
       "color": "#0891b2",
       "mustChange": false,
       "kp": {
-        "pub": "BFaGQ/B9i6RjduT9a2/SHHMLS7GPfIjvpls0T8JjJrr8cDWzmUETOGXRW9Sp+9HG51rqb/kTgKSjWoWUl1ftLLM=",
+        "pub": "BHBZx8abqQgz115lO54LBup3k1RNoFghNsuP9j/YgDJpU+jcg8+CnhW+3OcjMfjpZH8Vh3TQGZ156ZgUm6awMgg=",
         "priv": {
-          "salt": "z/PQGIdynDL3SDVJwlli6g==",
-          "iv": "iB8t2Nr8KVph4V7q",
-          "data": "M1/RpMyDZpn4PLoJu5prHBcueUEGoUFMTfkW4m+LsxE1RH38VS6VG2Qp9fPw1EuEVhKlVuq6g8P5GOyZLlDwDmNwV/Jlno97Q0+SK7OS0AIJTdK0eMpohGSsXoY6WL5kMvjntv99FFFD7DjqgAQjvYNlZqk6EtgFBRd4HTYPoOoP5F70NdVJcYcchPZaVdgZ6rqrMR+ZBUIDJOnDWfjK4Ke+V2MSp2+jZ6HGY2eqp33qCG+2sduEgISOKX+J71YU5hzrgMhiLBI=",
+          "salt": "WaYBNT4PYxAr6czMnXJsSQ==",
+          "iv": "2ZiqYc2K5aiLAFka",
+          "data": "s37cPSeBKSsVUIuiN0DmZvqvT9ZGrO5oxlzenMY2oBpiFLUUqO5JxWd4BRbZlV2jANATXZUjD+/27K95AfgPR3s/fNUlO7LBevE+7KAv3vfJG4eVlIdgAvwzQerH2Xt0frIa2nVFliVIdGY9c/bt2AeeJVmMeYwYfc3zjaqAv+D8j7LE/FOWmYLRWILnVjDDr26c6G5OhadU0dMYvIAgpkjw57ejMG2FZU6AEz6Mv31nPDKnX9t/F03bfPyp/B5lJefSDjpVck4=",
           "iter": 600000
         },
         "box": {
-          "epk": "BAZ0frLPgUYzsRCrwoZ0dMoueiBtuoGAyRBhg+yGmRCgAGwGdQ0K6g+ihKKm+TccTZJOt8Vkqm1/qGOVvutRqOk=",
-          "iv": "KL+TGp9Bi04LKuym",
-          "data": "zXbyTids59EJKuHxEwL8EvrDDZk/l7v9AdQATJRAkwUcUrJ0cByk1ahzn5kRmVLuRDrcTmNn0sPBolnffkXqRyX6K2A5z1ZBMrR/J0SFIjss78Z08vbyf+yj7p0KKG8AnFcEFIa0qqMnZQ6D8A=="
+          "epk": "BKJJNvPSvxS+kbcUGDhqnBET4+JlyEBCTj6HFSGMmXc4CnMa7HLc3HyeHAuExiWeHo6xBmNdaxk6Th/69yBSkJQ=",
+          "iv": "T2IEQX1JqRYjXrdp",
+          "data": "ZcNjNmin7jqMrGiZdTQqsrtrMc5gIJhCH0IJ6mlJlgrOg0ZnizoL8pSvmXNJQenmYdAE/tFX8U0eS4WGngFI9V4pQtpzTIzZ2BD6TtJ174lpiOyEwzhnJ1HnGpJZ0oL/GsmOZNNvRpRCi74LcQ=="
         }
-      },
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "ZIKMTxkxKObV58Dd96WxNQ==",
-        "iv": "sRg315BZuY4mQbIm",
-        "data": "3OiMJ1FFeeUdbaWEB5mw+LqXoUXkDCEviwMi3n/s5Zdy+tIMSkTIxIo4IGIG45K6LufH9aMXIaCJlU9s0cG+kf+L/uP61BtMXVPvX1A71F750vdvi5fsZ6tgavHYSR2CZLk+tousJcvLkRz58Q==",
-        "exp": "2026-10-19T20:41:54.740Z"
       }
     },
     {
