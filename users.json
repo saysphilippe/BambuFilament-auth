@@ -42,7 +42,8 @@
           "data": "2m/ErfGwyrFiexViK6D3qqLeRSgz9aZYj/9gzmbaAvNEHuF21puS6Tb5Uci8ak40P7qHRptMHB4OULvt1Vq+jqp46+a0yATH7IcAhXoVRgLsbDwYrIo7oOwxy8T12ttoAtpzDZXyWpzHpiFrKQ=="
         }
       },
-      "shareLibrary": true
+      "shareLibrary": true,
+      "market": true
     },
     {
       "name": "morten",
