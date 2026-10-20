@@ -182,7 +182,14 @@
     {
       "name": "ThomasJeppson",
       "color": "#0d9488",
-      "mustChange": true
+      "mustChange": true,
+      "reset": {
+        "kdf": "hkdf",
+        "salt": "XPlxCMhKGFbWrU7GOiq5SA==",
+        "iv": "C6sw1QBtm7oQl91t",
+        "data": "rIx6JC5K/er484IMW3phrugs/KxM2MWdQImkbQvG9HItEDTa/pznJNuepZ5uynPgWJCIM27W1CEne9aXG4NcQ+9wv/PokEiFUbCfVryVnc/SqyaAK3wivlQI84q1bL+smxk5nfH+C6mPze8Wag==",
+        "exp": "2026-10-20T19:31:22.467Z"
+      }
     }
   ]
 }
