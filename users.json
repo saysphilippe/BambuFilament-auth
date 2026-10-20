@@ -182,13 +182,20 @@
     {
       "name": "ThomasJeppson",
       "color": "#0d9488",
-      "mustChange": true,
-      "reset": {
-        "kdf": "hkdf",
-        "salt": "XPlxCMhKGFbWrU7GOiq5SA==",
-        "iv": "C6sw1QBtm7oQl91t",
-        "data": "rIx6JC5K/er484IMW3phrugs/KxM2MWdQImkbQvG9HItEDTa/pznJNuepZ5uynPgWJCIM27W1CEne9aXG4NcQ+9wv/PokEiFUbCfVryVnc/SqyaAK3wivlQI84q1bL+smxk5nfH+C6mPze8Wag==",
-        "exp": "2026-10-20T19:31:22.467Z"
+      "mustChange": false,
+      "kp": {
+        "pub": "BBGELwJ4AkuX5jB2AaiMTEeTR4of1hOuXrE3dhr8F704eVdiybuTpE7tAOISFRk97PmnzN/mE9tYzu5bds9qdDI=",
+        "priv": {
+          "salt": "hRTs1nYzAVWkPKJlcYCodw==",
+          "iv": "wtRCTb0vmjTn3fxH",
+          "data": "AtPMR2dEDNWI87l1+z22GpYHQURjza7QmztLEsTBJRDpBjjUY93TeVXVKEwuVDGAP0KMoamdevaNgRa2eZSR707Ctrfx5XgK527qjYK52raIbVZ6Ob+ivFre/j8JjkySykZkAUq/amhUCffNU+QoeZIuiV5wsNfbVFXMvP5Ma1oaTUTvSermYen5alw5tjw+xo5OckIFBCQA7EnoM9AEIYJ6hry0FeMDbyp50/MR3TETB60lBRWTXUzdt/yeasMYSGxx1z54pKs=",
+          "iter": 600000
+        },
+        "box": {
+          "epk": "BJn8jB5yoHWrplColzFiuwmfnXfe9rJePbnhH+kiMuTJpliFtlb7Iy9fEOZgtEwDTNYJ4yAfnxooGMY7ZImojOw=",
+          "iv": "HW/H5M5T/FRBzHNj",
+          "data": "+8BQeBs5Tf6LQMoixkmlkJie+fb6DFLyo5eWGpAKQA8lHo4nDoIG30XfqE1bc2CAGfcP+LkCbCCH8uSxNbNzutQEiADGLtzDT/CRpcjBEbhUPQ+FI3UXLEZbmLBqM7GDcsVcS5m9XXKOn+BSgQ=="
+        }
       }
     }
   ]
