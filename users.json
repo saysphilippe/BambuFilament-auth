@@ -178,6 +178,11 @@
           "data": "ZF+FmgFmNYXK+a9JSXhfjvHgbHKpYvcxug/ky6Yy0hblHlUXs9BqRXywwb5IoumcIDAcHS94TS3ZeOfFaVWPAC1P/nwWgrSwKh4IGuGHX78L5POMmyMNlSqfjQz8bF+AVZHyJZykyf9eQWkWXw=="
         }
       }
+    },
+    {
+      "name": "ThomasJeppson",
+      "color": "#0d9488",
+      "mustChange": true
     }
   ]
 }
