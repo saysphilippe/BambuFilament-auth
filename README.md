@@ -1,6 +1,6 @@
-# BambuFilament-auth
+# Nerdehagen-auth
 
-Brukerlisten for [BambuFilament](https://saysphilippe.github.io/BambuFilament/): navn, farger, rolle og
+Brukerlisten for Nerdehagen: navn, farger, rolle og
 innloggingsnøkler i `users.json`.
 
 Repoet er offentlig fordi nettsiden må kunne lese brukerlisten før noen er logget inn. Innloggingsnøklene
