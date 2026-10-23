@@ -197,6 +197,11 @@
           "data": "+8BQeBs5Tf6LQMoixkmlkJie+fb6DFLyo5eWGpAKQA8lHo4nDoIG30XfqE1bc2CAGfcP+LkCbCCH8uSxNbNzutQEiADGLtzDT/CRpcjBEbhUPQ+FI3UXLEZbmLBqM7GDcsVcS5m9XXKOn+BSgQ=="
         }
       }
+    },
+    {
+      "name": "Edna",
+      "color": "#7c3aed",
+      "mustChange": true
     }
   ]
 }
